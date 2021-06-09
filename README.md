@@ -1,4 +1,4 @@
-# constitutive-neural-networks
+# Nonlocal constitutive neural network
 Learning nonlocal constitutive models with neural networks
 
 
