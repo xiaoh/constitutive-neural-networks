@@ -1,6 +1,7 @@
 # Nonlocal constitutive neural network
 Learning nonlocal constitutive models with neural networks
 
+For case I, running the jupyter notebook needs the covariance matrix to generate the random production field，which can be found in the link https://drive.google.com/file/d/1BpjwqcKBJvx5Ju490GOv5PgaTNjvHmNf/view?usp=sharing.
 
 This repository contains the code and data for the following paper(s):
 
